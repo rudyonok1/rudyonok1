@@ -1,16 +1,30 @@
-### Hi there 👋
+<a id = "anchor"></a>
+<h1 align = "center">
+    hey there!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 
-<!--
-**rudyonok1/rudyonok1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
+## Обо мне:
+* Интересуюсь разработкой и ежедневно практикуюсь
+* Прохожу курсы по веб-разработке и веб-дизайну
+* Люблю создавать полезное и стильное
+смотри тут 👇
+[<img src="https://img.shields.io/badge/Ui KIT-FEE7F0?style=for-the-badge&logo=Figma&logoColor=black"/>](https://www.figma.com/community/file/1093433194340178113) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## Инструменты:
+<div>
+    <img src="https://img.shields.io/badge/JS-ffffff?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=HTML5&Color=black"/>
+    <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=CSS3&Color=black"/>
+    <img src="https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=Figma&Color=black"/>
+    <img src="https://img.shields.io/badge/Adobe-ffffff?style=for-the-badge&logo=Adobe&Color=black"/>
+</div>
+
+---
+[вверх](#anchor)
+
+
+
