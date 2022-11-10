@@ -1,8 +1,12 @@
 <a id = "anchor"></a>
-<h1 align = "center">
-    hey there!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+
+<div align="center">
+    <img align = "center" src="undraw_Code_review_re_woeb.png" title="Code" width="250"/>
+    <h1 align = "center">
+        hey there!
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>
+</div>
 
 ## Обо мне:
 * Интересуюсь разработкой и ежедневно практикуюсь
