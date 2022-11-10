@@ -4,16 +4,14 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
-___
-
 ## Обо мне:
 * Интересуюсь разработкой и ежедневно практикуюсь
 * Прохожу курсы по веб-разработке и веб-дизайну
 * Люблю создавать полезное и стильное
 смотри тут 👇
+
 [<img src="https://img.shields.io/badge/Ui KIT-FEE7F0?style=for-the-badge&logo=Figma&logoColor=black"/>](https://www.figma.com/community/file/1093433194340178113) 
 
----
 ## Инструменты:
 <div>
     <img src="https://img.shields.io/badge/JS-ffffff?style=for-the-badge&logo=JavaScript&logoColor=black"/>
@@ -23,7 +21,6 @@ ___
     <img src="https://img.shields.io/badge/Adobe-ffffff?style=for-the-badge&logo=Adobe&Color=black"/>
 </div>
 
----
 [вверх](#anchor)
 
 
