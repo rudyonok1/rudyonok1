@@ -8,16 +8,16 @@
     </h1>
 </div>
 
-## Обо мне:
+## Обо мне / About me:
 * Интересуюсь разработкой и ежедневно практикуюсь / Interested in development and practice daily
 * Прохожу курсы по веб-разработке и веб-дизайну / Taking courses in web development and web design
 * Люблю создавать полезное и стильное / I like to create useful and stylish
 
-Ui Kit смотри тут 👇
+Ui Kit смотри тут / Ui Kit see here 👇
 
 [<img src="https://img.shields.io/badge/Ui KIT-FEE7F0?style=for-the-badge&logo=Figma&logoColor=black"/>](https://www.figma.com/community/file/1093433194340178113) 
 
-## Инструменты:
+## Инструменты / Tools:
 <div>
     <img src="https://img.shields.io/badge/JS-ffffff?style=for-the-badge&logo=JavaScript&logoColor=black"/>
     <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=HTML5&Color=black"/>
