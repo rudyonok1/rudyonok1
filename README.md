@@ -1,7 +1,7 @@
 <a id = "anchor"></a>
 
 <div align="center">
-    <img align = "center" src="<iframe src="https://gifer.com/embed/PYh" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>" title="Code" width="250"/>
+    <img align = "center" <div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/PYh" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div>
     <h1 align = "center">
         hey there!
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
