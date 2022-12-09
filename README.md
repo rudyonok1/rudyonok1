@@ -1,7 +1,7 @@
 <a id = "anchor"></a>
 
 <div align="center">
-    <img align = "center" "https://i.gifer.com/PYh.gif" width="30px"/> 
+    <img src="https://i.gifer.com/PYh.gif" align = "center" width="30px" /> 
     <h1 align = "center">
         hey there!
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
