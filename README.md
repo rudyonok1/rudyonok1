@@ -21,9 +21,9 @@ Ui Kit в Figma смотри тут / Ui Kit see here 👇
 
 [<img src="https://img.shields.io/badge/Figma-FEE7F0?style=for-the-badge&logo=Figma&logoColor=black"/>](https://www.figma.com/file/dOHPexhJUGt2ifJW48Gqbs/%D0%9B%D0%9A-ASP-(hh)?node-id=0-1) 
 
-Cайт для автопостинга в социальных сетях в Figma смотри тут / Website for auto-posting in social networks here 👇///
+Cайт для автопостинга в социальных сетях в Figma смотри тут / Website for auto-posting in social networks here 👇
 
-[<img src="https://img.shields.io/badge/Figma-FEE7F0?style=for-the-badge&logo=Figma&logoColor=black"/>](https://www.figma.com/file/dOHPexhJUGt2ifJW48Gqbs/%D0%9B%D0%9A-ASP-(hh)?node-id=0-1) 
+[<img src="https://img.shields.io/badge/Figma-FEE7F0?style=for-the-badge&logo=Figma&logoColor=black"/>](https://www.figma.com/file/dwGekbyv6ygM7v4cW5g5un/%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%82?node-id=0-1&t=uza7TdU9sVAcyN7r-0) 
 
 Online store Site смотри тут 👇
 
