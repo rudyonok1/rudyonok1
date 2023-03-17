@@ -13,7 +13,7 @@
 * Прохожу курсы по веб-разработке и веб-дизайну / Taking courses in web development and web design
 * Люблю создавать полезное и стильное / I like to create useful and stylish
 
-Ui Kit смотри тут / Ui Kit see here 👇
+Ui Kit в Figma смотри тут / Ui Kit see here 👇
 
 [<img src="https://img.shields.io/badge/Ui KIT-FEE7F0?style=for-the-badge&logo=Figma&logoColor=black"/>](https://www.figma.com/community/file/1093433194340178113) 
 
