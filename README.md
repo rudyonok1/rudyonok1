@@ -17,10 +17,13 @@ Ui Kit в Figma смотри тут / Ui Kit see here 👇
 
 [<img src="https://img.shields.io/badge/Ui KIT-FEE7F0?style=for-the-badge&logo=Figma&logoColor=black"/>](https://www.figma.com/community/file/1093433194340178113) 
 
-Ui Kit в Figma смотри тут / Ui Kit see here 👇
+Личный кабинет для сайта автопостинга социальных сетей в Figma смотри тут / Personal account for a social media auto-posting site in Figma here 👇
 
 [<img src="https://img.shields.io/badge/Figma-FEE7F0?style=for-the-badge&logo=Figma&logoColor=black"/>](https://www.figma.com/file/dOHPexhJUGt2ifJW48Gqbs/%D0%9B%D0%9A-ASP-(hh)?node-id=0-1) 
 
+Online store Site смотри тут 👇
+
+[<img src="https://img.shields.io/badge/Figma-FEE7F0?style=for-the-badge&logo=Figma&logoColor=black"/>](https://www.behance.net/elizavebogdano6) 
 
 ## Инструменты / Tools:
 <div>
