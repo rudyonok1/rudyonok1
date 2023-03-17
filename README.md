@@ -23,7 +23,7 @@ Ui Kit в Figma смотри тут / Ui Kit see here 👇
 
 Online store Site смотри тут 👇
 
-[<img src="https://img.shields.io/badge/Behance-FEE7F0?style=for-the-badge&logo=Figma&logoColor=black"/>](https://www.behance.net/elizavebogdano6) 
+[<img src="https://img.shields.io/badge/B-Behance-blue-FEE7F0?style=for-the-badge&logo=Figma&logoColor=black"/>](https://www.behance.net/elizavebogdano6) 
 
 ## Инструменты / Tools:
 <div>
